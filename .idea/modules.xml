@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CG-M2-IO-Binary FileAndSerialization.iml" filepath="$PROJECT_DIR$/CG-M2-IO-Binary FileAndSerialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoFileInputStream/DemoFileInputStream.iml" filepath="$PROJECT_DIR$/DemoFileInputStream/DemoFileInputStream.iml" />
+    </modules>
+  </component>
+</project>
